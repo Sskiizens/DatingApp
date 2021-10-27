@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FRt9zvc2Ot4x6tFDkaGLjCGouOrV8p8G/q1Y/VgqPQo8sn65xWm4/7yo7SznYLmciAEV0X4+FhLIdgcgCcdHyA==",
+  "dgSpecHash": "qo5NPCE07Yawq6W2C2R+2ekPRhTRTjIAz8hZ2Yu1iLEeO/J4oEXslwOK4sxCxUnsdPCIa+NUucSZ2A9iquVgXQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\grane\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\grane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\grane\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.11\\microsoft.data.sqlite.core.5.0.11.nupkg.sha512",
@@ -12,6 +13,7 @@
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.11\\microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",
+    "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.11\\microsoft.entityframeworkcore.design.5.0.11.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.11\\microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.11\\microsoft.entityframeworkcore.sqlite.5.0.11.nupkg.sha512",
     "C:\\Users\\grane\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.11\\microsoft.entityframeworkcore.sqlite.core.5.0.11.nupkg.sha512",

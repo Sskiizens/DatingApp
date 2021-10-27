@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\grane\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\grane\\OneDrive\\Bureau\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,6 +28,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,6 +48,12 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.11, )"
             },
